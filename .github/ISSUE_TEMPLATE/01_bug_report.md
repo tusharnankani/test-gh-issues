@@ -1,13 +1,10 @@
 ---
 name: Bug
 about: Report a bug/issue
-title: 'bug: '
-  
+
 ---
 
-<!--
-Note: Please search to see if an issue already exists for the bug you encountered.
--->
+<!-- Note: Please search to see if an issue already exists for the bug you encountered. -->
   
 ## Describe the issue
   
@@ -30,6 +27,4 @@ Example: steps to reproduce the behavior:
 <!-- Example: OS, versions, browser details etc.  -->
 
 ### Anything else:
-<!--
-Links? Potential Fixes? References? Anything that will give us more context about the issue that you are encountering!
--->
+<!-- Links? Potential Fixes? References? Anything that will give us more context about the issue that you are encountering! -->
