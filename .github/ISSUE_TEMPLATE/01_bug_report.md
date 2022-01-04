@@ -1,16 +1,16 @@
 ---
 name: 🐞 Bug
-about: File a bug/issue
-title: '[BUG] <title>'
-labels: Bug, Needs Triage
-assignees: ''
-
+about: Report a bug/issue
+title: 'bug: '
+  
 ---
 
 <!--
 Note: Please search to see if an issue already exists for the bug you encountered.
 -->
-
+  
+## Describe the issue
+  
 ### Current Behavior:
 <!-- A concise description of what you're experiencing. -->
 
@@ -27,34 +27,9 @@ Example: steps to reproduce the behavior:
 -->
 
 ### Environment:
-<!--
-Example:
-- OS: Ubuntu 20.04
-- Node: 13.14.0
-- npm: 7.6.3
--->
+<!-- Example: OS, versions, browser details etc.  -->
 
 ### Anything else:
 <!--
-Links? References? Anything that will give us more context about the issue that you are encountering!
+Links? Potential Fixes? References? Anything that will give us more context about the issue that you are encountering!
 -->
-
-### Describe the issue
-
-<!-- Describe your issue here -->
-
-#### Expected behaviour
-
-<!-- Tell us what should happen -->
-
-#### Actual behaviour
-
-<!-- Tell us what happens instead -->
-
-### Steps to reproduce
-
-<!-- Tell us how to reproduce this issue. If possible, provide a working demo or screenshots to briefly describe the issue -->
-
-### Other Details
-
-<!-- Tell us any other details you would like to (eg: OS details, browser details, potential fixes)  -->
