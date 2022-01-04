@@ -1,6 +1,6 @@
 ---
 name: 🐛 Bug
-about: Report a bug/issue
+about: Report a bug/issue 🐞
 
 ---
 
